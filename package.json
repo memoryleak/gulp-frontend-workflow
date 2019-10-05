@@ -1,0 +1,26 @@
+{
+  "name": "webg-projekt",
+  "version": "1.0.0",
+  "description": "Webgrundlagen Projekt",
+  "main": "pub/index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Haydar Ciftci",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-beautify": "^3.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.5.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-csslint": "^1.0.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-headerfooter": "^1.0.3",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.4.0"
+  },
+  "devDependencies": {
+    "gulp-html": "^0.8.1"
+  }
+}
